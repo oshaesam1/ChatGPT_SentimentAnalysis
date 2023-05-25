@@ -1,6 +1,6 @@
 # ChatGPT_SentimentAnalysis
  
-Given the dataset of several tweets about ChatGPT where users post their opinions towards it.  which classifies each tweet into three classes (i.e., positive “good”, negative “bad”, or neutral) perform text classification ,building a classifier that can accept user comments (sentence) and outputs positive, neutral, or negative opinions.
+Using NLP given the dataset of several tweets about ChatGPT where users post their opinions towards it.  which classifies each tweet into three classes (i.e., positive “good”, negative “bad”, or neutral) perform text classification ,building a classifier that can accept user comments (sentence) and outputs positive, neutral, or negative opinions.
 
 
 ### Dataset Preview:
