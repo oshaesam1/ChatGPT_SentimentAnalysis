@@ -5,5 +5,5 @@ month, which classifies each tweet into three classes (i.e., positive “good”
 
 ### Dataset Preview:
 
-|<img src="example/datsetExample.png">|
+|<img src="example/datasetExample.png">|
 |:-:|
